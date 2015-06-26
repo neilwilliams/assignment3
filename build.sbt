@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name := """assignment3"""
+=======
+name := """test-scala-play"""
+>>>>>>> c0c36332963585795686a9756dc1341740c55007
 
 version := "1.0-SNAPSHOT"
 
