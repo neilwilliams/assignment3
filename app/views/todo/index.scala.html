@@ -1,0 +1,10 @@
+@(todos: java.util.ArrayList[models.Todo])
+@main("Todos") {
+
+    <ul>
+        @for(todo <- todos) {
+            <li>@todo.title - @todo.description</li>
+        }
+    </ul>
+
+}
