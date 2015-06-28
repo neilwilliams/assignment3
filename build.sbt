@@ -1,4 +1,4 @@
->>>>>>> HEAD
+<<<<<<< HEAD
 name := """assignment3"""
 =======
 name := """test-scala-play"""
